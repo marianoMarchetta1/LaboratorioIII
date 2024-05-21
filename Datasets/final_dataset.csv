@@ -1,4 +1,4 @@
-cat1	cat2	cat3	brand	sku_size	product_id	periodo	stock_final	plan_precios_cuidados	cust_request_qty	y	tn
+cat1	cat2	cat3	brand	sku_size	product_id	periodo	stock_final	plan_precios_cuidados	cust_request_qty	cust_request_tn	y
 HC	ROPA LAVADO	Liquido	LIMPIEX	900.0	20280	201810.0	22.59826	0	138.0	16.070540000000005	16.070540000000005
 HC	ROPA LAVADO	Liquido	LIMPIEX	900.0	20280	201811.0	31.92791	0	126.0	15.035059999999998	15.035059999999998
 HC	ROPA LAVADO	Liquido	LIMPIEX	900.0	20280	201812.0	18.26338	0	131.0	13.593470000000002	13.593470000000002
