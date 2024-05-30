@@ -165,3 +165,4 @@ Datasets/tb_stocks.txt
 myenv/
 Models/Baseline/Models_params
 Models/Baseline/bayesian_optimization
+Models/lightning_logs
