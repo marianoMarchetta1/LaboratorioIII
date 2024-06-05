@@ -165,3 +165,5 @@ Datasets/tb_stocks.txt
 myenv/
 Models/Baseline/Models_params
 Models/Baseline/bayesian_optimization
+Models/Baseline/Lightning_logs
+Models/Baseline/NeuralProphet_results
