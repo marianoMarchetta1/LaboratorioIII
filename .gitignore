@@ -167,3 +167,5 @@ Models/Baseline/Models_params
 Models/Baseline/bayesian_optimization
 Models/Baseline/Lightning_logs
 Models/Baseline/NeuralProphet_results
+Models/ProductAnalysis/Lightning_logs
+Models/ProductAnalysis/NeuralProphet_results_2
