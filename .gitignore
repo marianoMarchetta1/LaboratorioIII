@@ -163,6 +163,7 @@ Datasets/sell-in.txt
 Datasets/tb_productos.txt
 Datasets/tb_stocks.txt
 myenv/
+my_env/
 Models/Baseline/Models_params
 Models/Baseline/bayesian_optimization
 Models/Baseline/Lightning_logs
