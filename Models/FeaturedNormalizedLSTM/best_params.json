@@ -1,1 +1,1 @@
-{"activation": "relu", "batch_size": 32, "depth": 1, "dropout": 0.2, "epochs": 30, "l2_penalty": 1e-06, "learning_rate": 0.001, "optimizer": "sgd", "units": 128}
+{"activation": "tanh", "batch_size": 32, "depth": 2, "dropout": 0.1, "epochs": 50, "l2_penalty": 0.01, "learning_rate": 0.001, "optimizer": "sgd", "units": 128}
