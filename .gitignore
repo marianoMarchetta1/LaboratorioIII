@@ -162,6 +162,7 @@ cython_debug/
 Datasets/sell-in.txt
 Datasets/tb_productos.txt
 Datasets/tb_stocks.txt
+final_dataset_descr.csv
 myenv/
 my_env/
 Models/Baseline/Models_params
