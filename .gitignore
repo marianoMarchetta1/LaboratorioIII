@@ -164,6 +164,7 @@ Datasets/tb_productos.txt
 Datasets/tb_stocks.txt
 final_dataset_descr.csv
 final_dataset_corto.csv
+final_dataset_completo_con_ceros.csv
 myenv/
 my_env/
 Models/Baseline/Models_params
