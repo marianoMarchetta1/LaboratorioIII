@@ -173,3 +173,5 @@ Models/Baseline/NeuralProphet_results
 Models/ProductAnalysis/Lightning_logs
 Models/ProductAnalysis/NeuralProphet_results_2
 Models/CategoryGroupClusteringFixed/final_dataset_completo_con_ceros.csv
+Models/CategoryGroupClusteringFixed/grouped_with_clusters.csv
+Models/CategoryGroupClusteringFixed/scalers.pkl
